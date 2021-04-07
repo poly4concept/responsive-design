@@ -352,7 +352,7 @@ div.footer h6 {
         padding: 1rem 1rem;
     }
     div.logo {
-        font-size: 1.0rem;
+        font-size: 1.1rem;
         color: #bcc3c7;
         margin-right: 3px;
     }
@@ -365,7 +365,7 @@ div.footer h6 {
     ul li a {
         text-decoration: none;
         color: #88949B;
-        font-size: 0.5rem;
+        font-size: 1rem;
         padding: 0.5vw 0.2vw;
     }
     div.hero-section {
