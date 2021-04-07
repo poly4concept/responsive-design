@@ -357,7 +357,7 @@ div.footer h6 {
         margin-right: 3px;
     }
     ul li {
-        margin: 0 1vw;
+        margin: 0 0.7vw;
         list-style: none;
         font-size: 1.1rem;
     }
@@ -386,7 +386,7 @@ div.footer h6 {
     div.background {
         padding: 5px 25px;
         width: 500px;
-        height: 270px;
+        height: 280px;
     }
     div.background h4 {
         padding: 1.8rem;
@@ -397,7 +397,7 @@ div.footer h6 {
         font-size: 0.7rem;
     }
     div.hero-background-pos {
-        left: 73%;
+        left: 72%;
         width: 100px;
         height: 100px;
     }
