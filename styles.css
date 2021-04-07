@@ -386,7 +386,7 @@ div.footer h6 {
     div.background {
         padding: 5px 25px;
         width: 500px;
-        height: 250px;
+        height: 270px;
     }
     div.background h4 {
         padding: 1.8rem;
@@ -397,7 +397,7 @@ div.footer h6 {
         font-size: 0.7rem;
     }
     div.hero-background-pos {
-        left: 74%;
+        left: 73%;
         width: 100px;
         height: 100px;
     }
@@ -420,7 +420,7 @@ div.footer h6 {
         justify-content: center;
     }
     div.gallery-section {
-        padding: 2 rem;
+        padding: 2rem;
     }
     div.footer {
         padding: 1rem;
