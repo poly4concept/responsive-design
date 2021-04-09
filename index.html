@@ -9,13 +9,22 @@
 </head>
 <body>
     <div class="nav-bar">
+
+        <div class="toggle-btn" onclick="toggleBtn()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
         <div class="logo">Snapshot</div>
-        <ul class="nav-links">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Gallery</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
+        <nav id="nav">
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Gallery</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
     </div>
 
     <!-- Hero section -->
@@ -103,5 +112,12 @@
         </div>
         <h6>Copyright &copy; 2021 Zuri Training.</h6>
     </div>
+
+    <script>
+        function toggleBtn() {
+            navbar = document.getElementById("nav");
+            navbar.classList.toggle('show');
+        }
+    </script>
 </body>
 </html>
